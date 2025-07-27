@@ -1,0 +1,4 @@
+train: ../train_data/hong_nguoc
+val: ../train_data/hong_nguoc
+nc: 8
+names: ['scratch','thieu','tu_nguoc','chip_below_right', 'chip_above_right', 'chip_below_left', 'ic_above_right', 'ic_below_left']
